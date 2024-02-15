@@ -14,7 +14,7 @@ Ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
 - Required Python packages: `numpy`, `pandas`, `scikit-learn`, `imbalanced-learn`, `matplotlib`, `seaborn`
-- datasets: All datasets are publicly available but in case you don't want to search them manually, you can find all of them here: https://drive.google.com/drive/folders/14Y_56VWmdn1OpYGDhdQSSKIo8iiZUJ8V?usp=sharing
+- datasets: All datasets are publicly available but in case you don't want to search them manually, you can find all of them [here](https://drive.google.com/drive/folders/14Y_56VWmdn1OpYGDhdQSSKIo8iiZUJ8V?usp=sharing)
 
 ### Installation
 Clone this repository to your local machine:
