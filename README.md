@@ -15,6 +15,7 @@ Ensure you have the following installed:
 - Jupyter Notebook
 - Required Python packages: `numpy`, `pandas`, `scikit-learn`, `imbalanced-learn`, `matplotlib`, `seaborn`
 - datasets: All datasets are publicly available but in case you don't want to search them manually, you can find all of them [here](https://drive.google.com/drive/folders/14Y_56VWmdn1OpYGDhdQSSKIo8iiZUJ8V?usp=sharing)
+- Table of Contents (2) : While not necessary, I recommend installing this extension of Jupyter notebook for a faster navigation.
 
 ### Installation
 Clone this repository to your local machine:
