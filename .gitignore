@@ -152,3 +152,5 @@ WIP/
 cre
 Imbalanced Data/Data/titanic.csv
 Imbalanced Data/Data/creditcard.csv
+
+*.csv
